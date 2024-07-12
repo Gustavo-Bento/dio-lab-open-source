@@ -107,7 +107,7 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
     </tr>
     <tr>
         <td width="50%">
-            <h4 align="left">Others</h4>
+            <h4 align="left">Others:</h4>
         </td>
         <td width="50%">
             <p align="left">
